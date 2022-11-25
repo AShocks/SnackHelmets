@@ -1,1 +1,1 @@
-web: gunicorn helmet_store.wsgi:application
+web: gunicorn helmet_store.wsgi
